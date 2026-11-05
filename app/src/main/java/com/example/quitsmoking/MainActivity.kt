@@ -3,6 +3,7 @@ package com.example.quitsmoking
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.material3.MaterialTheme
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.quitsmoking.ui.QuitScreen
 import com.example.quitsmoking.ui.QuitViewModel
